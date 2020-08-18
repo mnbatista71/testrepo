@@ -1,0 +1,6 @@
+Editado en la Mac, subido a github con "upload files".
+Probando códigos de página:
+ennie: Ñ ñ
+tildes: á, é, í, ó, ú, ü
+fin
+
