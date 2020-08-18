@@ -1,0 +1,4 @@
+Editado en la Mac, subido a github con "upload files".
+Los caracteres especiales funcionaron bien.
+Este file debería verse solamente en la child_branch.
+
